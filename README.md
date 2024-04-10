@@ -1,1 +1,1 @@
-#POS System for Hardware store - Java console application
+**POS System for Hardware store - Java console application**
