@@ -1,0 +1,20 @@
+1, Hammer, 15.99
+2, Screwdriver Set, 12.49
+3, Tape Measure, 8.25
+4, Pliers, 9.99
+5, Adjustable Wrench, 13.50
+6, Utility Knife, 7.45
+7, Hacksaw, 18.90
+8, Electric Drill, 39.99
+9, Drill Bits Set, 14.99
+10, Level, 11.00
+11, Chisel Set, 19.95
+12, Wire Stripper, 10.89
+13, Allen Wrench Set, 6.55
+14, Pipe Wrench, 22.30
+15, Socket Set, 25.99
+16, Ladder, 99.99
+17, Work Gloves, 5.49
+18, Safety Goggles, 3.99
+19, Flashlight, 12.99
+20, Circular Saw, 52.00

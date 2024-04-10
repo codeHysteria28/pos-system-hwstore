@@ -1,0 +1,25 @@
+
+Receipt from POS System
+-----------------------
+Transaction ID: 11c53b10-3011-4e9b-88ff-d38ed52882b3
+Transaction Date & Time: Wed Apr 10 2024 18:46
+Products:
+-  Screwdriver Set
+Total Price: €12.49
+-----------------------
+30 days warranty applied
+Thank you for your purchase!
+
+Receipt from POS System
+-----------------------
+Transaction ID: 83b6d529-3b26-4efa-8e13-510ebed339dc
+Transaction Date & Time: Wed Apr 10 2024 18:47
+Products:
+-  Hammer
+-  Screwdriver Set
+-  Tape Measure
+Total Price: €36.73
+-----------------------
+30 days warranty applied
+Thank you for your purchase!
+
